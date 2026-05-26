@@ -1,3 +1,7 @@
+# reikiinthewoods.com
+
+Landing page for https://reikiinthewoods.com with embedded [Acuity Scheduling](https://acuityscheduling.com/) app and links to social media.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
